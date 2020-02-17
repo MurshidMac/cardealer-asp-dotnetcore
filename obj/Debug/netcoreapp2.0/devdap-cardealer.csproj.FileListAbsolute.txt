@@ -1,0 +1,24 @@
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.deps.json
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.runtimeconfig.json
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.runtimeconfig.dev.json
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.dll
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.pdb
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.csprojResolveAssemblyReference.cache
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.csproj.CoreCompileInputs.cache
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.AssemblyInfoInputs.cache
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.AssemblyInfo.cs
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.dll
+D:\Final Themes\NET Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.pdb
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.deps.json
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.runtimeconfig.json
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.dll
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\bin\Debug\netcoreapp2.0\devdap-cardealer.pdb
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.AssemblyInfo.cs
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.dll
+C:\Users\HP\source\repos\Car-Dealer-Core\devdap-cardealer\devdap-cardealer\obj\Debug\netcoreapp2.0\devdap-cardealer.pdb
